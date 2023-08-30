@@ -13,7 +13,7 @@ sudo apt install && sudo apt update
 
 package_upgrades=$(apt list --upgradable)
 
-#Write a command to iterate the line on how many packages are upgradable and create a new file with the information
+#Write a command to iterate the line on how many packages are upgradable and create a new file with the information with the current date on it.
 
 echo "$package_upgrades can be upgraded" > update$(date +"%d-%m-%Y").txt
 
