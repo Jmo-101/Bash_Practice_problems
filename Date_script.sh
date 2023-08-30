@@ -8,7 +8,7 @@ crontab -e
 
 sudo apt install && sudo apt update 
 
-#list out the amount of packages that can be upgraded
+#Make a variable that lists out the amount of packages that can be upgraded
 
 package_upgrades=$(apt list --upgradable)
 
