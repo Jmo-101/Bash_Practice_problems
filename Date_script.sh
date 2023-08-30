@@ -15,7 +15,7 @@ package_upgrades=$(apt list --upgradable)
 
 #Write a command to iterate the line on how many packages are upgradable and create a new file with the information
 
-echo "$package_upgrades can be upgraded" > update8.30.23.txt
+echo "$package_upgrades can be upgraded" > update$(date +"%d-%m-%Y").txt
 
 #show the contents of the new file
 
