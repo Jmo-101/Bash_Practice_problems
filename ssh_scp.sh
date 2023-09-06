@@ -45,7 +45,6 @@ esac
 
 
 #making a function to ssh into a server using the variable ssh_server i used in the menu above, gave variables to both the read commands in order to use it i>
-
 # ssh_server(){
 # read "enter the ssh user: " ssh_username
 # read "enter the server ip address: " ssh_IP
