@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 
 #making a menu for the user to choose from, gave a variable of 'option' to the read(input) command in order to use it below in a case statement
