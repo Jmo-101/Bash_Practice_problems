@@ -33,7 +33,6 @@ case $option in
         ;;
 
         2) scp_copy
-
         ;;
 
         *)echo "invalid option try again"
