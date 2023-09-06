@@ -25,7 +25,7 @@ read -p "choose file destination (1: local to remote, 2: remote to local): " fil
 echo "select an option"
 echo "1.Ssh into a server"
 echo "2.scp"
-read  "enter a option: " option 
+read -p "enter a option: " option 
 #wrote a case statement where if the users choice is 1 or 2 it would give them the desired output
 case $option in 
 
