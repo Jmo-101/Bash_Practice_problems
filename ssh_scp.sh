@@ -16,7 +16,7 @@ scp_copy(){
 read -p "enter the ssh user:" scp_username
 read -p "enter the ssh ip address: " scp_IP
 
-read -p "choose file destination (1: remote to local, 2: local to remote): " file_destination
+read -p "choose file destination (1: local to remote, 2: remote to local): " file_destination
 }
 
 
