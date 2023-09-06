@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Jorge Molina 9/6/23
+
 #making a function to ssh into a server using the variable ssh_server i used in the menu above, gave variables to both the read commands in order to use it i>
 
 ssh_server(){
