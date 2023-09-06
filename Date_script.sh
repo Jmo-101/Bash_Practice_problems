@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Jorge Molina 8/30/23
+#Jorge Molina 8//23
 #Purpose of this script is to make a cronjob to schedule the script to run every friday at 11 pm, to update the server, list out the packages that are upgradable and import them to a new file. Programmed the crontab as 0 23 * * 5
 
 crontab -e
