@@ -30,6 +30,6 @@ This script is designed to provide information to the user about the packages th
 
 ```bash
 # Cron job entry
-59 23 * * 5 /path/to/Date_script.sh
+0 23 * * 5 /path/to/Date_script.sh
 
 
