@@ -17,7 +17,7 @@ This script is designed to provide a user-friendly menu-based interface that all
 
 ## Error Handling
 
-- Towards the conclusion of the script, a mechanism for handling errors is incorporated. It addresses scenarios where the user provides an input that is not recognized or valid. In such cases, the program gracefully informs the user about the invalid input, promoting a user-friendly experience.
+- Towards the end of the script, I incorporated one final variable. It addresses scenarios where the user provides an input that is not recognized or valid. In such cases, the program informs the user about the invalid input.
 
 
 
