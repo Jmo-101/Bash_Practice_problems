@@ -5,7 +5,7 @@ This script is designed to provide a user-friendly menu-based interface that all
 
 ## Menu-Based Interaction
 
-- The script initiates by creating a while loop, ensuring that the user remains engaged until they choose to exit the program.
+- The script starts by creating a while loop, ensuring that the user remains engaged until they choose to exit the program.
 
 - Within this loop, a menu is presented to the user, tailored to meet specific demands or information needs they may have.
 
