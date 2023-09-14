@@ -9,7 +9,7 @@ This script is designed to provide a user-friendly menu-based interface that all
 
 - Within this loop, a menu is presented to the user, tailored to meet specific demands or information needs they may have.
 
-##User Input Handling
+## User Input Handling
 
 - A variable named 'option' is established to capture the user's input. 
 
