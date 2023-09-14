@@ -58,7 +58,7 @@ while true;do
                 11)currentProcess=$(ps aux)
                         echo "current running process:$currentProcess"
                         ;;
-                #made a variable here in case user inputs a number not found it echos invalid option
+#made a variable here in case user inputs a number not found it echos invalid option
                 *)
                         echo "invalid option please try again"
 
