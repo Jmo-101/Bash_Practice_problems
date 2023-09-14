@@ -1,7 +1,7 @@
 # Bash_Practice_problems
 # UserMenu.sh
 
-This script is designed to provide a user-friendly menu-based interface that allows users to make selections and access corresponding information.
+This script is designed to provide a user-friendly menu-based interface that allows users to make selections and access specific information.
 
 ## Menu-Based Interaction
 
