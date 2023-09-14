@@ -2,7 +2,7 @@
 
 #Creating a list for the user to choose from
 #created a while loop so the question can be reasked everytime the user inputs a selection
-home=$HOME
+
 while true;do 
         echo "Please select an option below"
         echo ""
@@ -31,7 +31,7 @@ while true;do
                 2)Shell_directory=$(pwd)
                         echo "Your shell directory is: $Shell_directory"
                         ;;
-                3)home_directory=$(home)
+                3)home_directory=$HOME
                         echo "Home directory is: $home_directory"
                         ;;
                 4)os=$(uname -r)
